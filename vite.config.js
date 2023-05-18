@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   
   plugins: [react()],
-  base:'/movies/',
+  base:'/5000/',
 })
